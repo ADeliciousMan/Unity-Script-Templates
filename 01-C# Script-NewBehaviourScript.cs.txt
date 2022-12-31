@@ -8,10 +8,13 @@ using UnityEngine.SceneManagement;
 public class #SCRIPTNAME# : MonoBehaviour
 {
         #NOTRIM#
-    /// public gameObject ###
+    /// Debug.Log(gameObject.name + " - ERROR ");
+    /// public logicScript logic;
         #NOTRIM#
     void Start()
     {
+        #NOTRIM#
+        /// logic = GameObject.FindGameObjectWithTag("Logic").GetComponent<logicScript>();
         #NOTRIM#
     }
 
