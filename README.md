@@ -1,4 +1,7 @@
 # Unity-Script-Templates
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I8PI401)
+
 Basic C# script for Unity, replaces the default script.
 Calls in more Unity packages by default so you don't have to remember too and instead can focus on coding; and is organized a little better in my opinion.
 
