@@ -1,6 +1,7 @@
 # Unity-Script-Templates
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I8PI401)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=FQK32ZSLKR8AJ&no_recurring=0&item_name=Creating+Marling+Firmware+and+Open+Source+Games&currency_code=USD)
 
 Basic C# script for Unity, replaces the default script.
 Calls in more Unity packages by default so you don't have to remember too and instead can focus on coding; and is organized a little better in my opinion.
